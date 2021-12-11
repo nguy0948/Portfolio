@@ -1,0 +1,31 @@
+/* :root {
+    --bs-light: #BF5E70;
+    --bs-primary: #BF5E70;
+    --bs-secondary: #D98997;
+    --bs-primary-rgb: 75, 37, 44;
+    --bs-secondary-rgb: 255, 230, 172;
+    --bs-white: #D98997;
+    --bs-white-rgb: 255, 230, 172;
+  } */
+
+header nav{
+    background: #BF5E70;
+}
+
+.navbar-nav .nav-link {
+  color: white
+}
+
+.navbar-nav .nav-link:hover {
+  color: black;
+}
+
+.h1 {
+  background-color:#BF5E70;
+  color: white;
+}
+
+footer{
+  background-color: #BF5E70;
+  color: white;
+}
